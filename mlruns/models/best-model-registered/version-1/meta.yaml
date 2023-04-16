@@ -1,0 +1,12 @@
+creation_timestamp: 1681592021984
+current_stage: Production
+description: ''
+last_updated_timestamp: 1681592083494
+name: best-model-registered
+run_id: cdbdfe5ac65f40f8ae02665b92448373
+run_link: ''
+source: file:///C:/Pedro/posgrad/Engenharia de Machine Learning [23E1_3]/file/133641983168627663/cdbdfe5ac65f40f8ae02665b92448373/artifacts/best-model
+status: READY
+status_message: null
+user_id: null
+version: 1

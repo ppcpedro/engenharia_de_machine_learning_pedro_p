@@ -1,0 +1,8 @@
+name: PreparacaoDados
+conda_env: conda.yaml
+entry_points:
+  main:
+    parameters:
+      input_path: {type: str}
+      output_path: {type: str}
+    command: "python preparacao_dados.py {input_path} {output_path}"

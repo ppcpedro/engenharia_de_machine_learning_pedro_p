@@ -1,0 +1,10 @@
+name: preparacao-dados
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - pandas
+  - numpy
+  - scikit-learn
+  - pip:
+    - mlflow
